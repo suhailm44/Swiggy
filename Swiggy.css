@@ -1,6 +1,7 @@
 body{
     font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
     margin:0;
+    overflow-x:hidden;
 }
 .Header{
     width:100%;
