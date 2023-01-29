@@ -5,19 +5,16 @@ body{
 .Header{
     width:100%;
     height:550px;
-    display: float;
     
 }
 .Header-left
 {
-    display: float;
     float: left;
     width:56%;
     height:550px;
     background:#fff;
 }
 .left-up{
-    display: float;
     width: 757px;
     height: 147px;
     background:#fff;
